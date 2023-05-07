@@ -1,79 +1,78 @@
 # PEP #
 
-|No.|State|
-|---|----:|
-|  1|    s|
-|  2|    s|
-|  3|    s|
-|  4|    s|
-|  5|    s|
-|  6|    s|
-|  7|    s|
-|  8|    s|
-|  9|    s|
-| 10|    s|
-| 11|    s|
-| 12|    s|
-| 13|    s|
-| 14|    s|
-| 15|    s|
-| 16|    s|
-| 17|    s|
-| 18|    s|
-| 19|    s|
-| 20|    s|
-| 20|    s|
-| 21|    s|
-| 22|    s|
+|  N|State|
+|--:|----:|
+|  1|:heavy_check_mark:|
+|  2|:heavy_check_mark:|
+|  3|:heavy_check_mark:|
+|  4|:heavy_check_mark:|
+|  5|:heavy_check_mark:|
+|  6|:heavy_check_mark:|
+|  7|:heavy_check_mark:|
+|  8|:heavy_check_mark:|
+|  9|:heavy_check_mark:|
+| 10|:heavy_check_mark:|
+| 11|:heavy_check_mark:|
+| 12|:heavy_check_mark:|
+| 13|:heavy_check_mark:|
+| 14|:heavy_check_mark:|
+| 15|:heavy_check_mark:|
+| 16|:heavy_check_mark:|
+| 17|:heavy_check_mark:|
+| 18|:heavy_check_mark:|
+| 19|:heavy_check_mark:|
+| 20|:heavy_check_mark:|
+| 21|:heavy_check_mark:|
+| 22|:heavy_check_mark:|
 | 23|     |
-| 24|    s|
-| 25|    s|
-| 26|    s|
+| 24|:heavy_check_mark:|
+| 25|:heavy_check_mark:|
+| 26|:heavy_check_mark:|
 | 27|     |
-| 28|    s|
-| 29|    s|
+| 28|:heavy_check_mark:|
+| 29|:heavy_check_mark:|
 | 30|     |
-| 31|    s|
+| 31|:heavy_check_mark:|
 | 32|     |
-| 33|    s|
+| 33|:heavy_check_mark:|
 | 34|     |
-| 35|    s|
-| 36|    s|
-| 37|    s|
+| 35|:heavy_check_mark:|
+| 36|:heavy_check_mark:|
+| 37|:heavy_check_mark:|
 | 38|     |
-| 39|    s|
-| 40|    s|
+| 39|:heavy_check_mark:|
+| 40|:heavy_check_mark:|
 | 41|     |
-| 42|    s|
+| 42|:heavy_check_mark:|
 | 43|     |
-| 44|    s|
-| 45|    s|
-| 46|    s|
-| 47|    s|
-| 48|    s|
+| 44|:heavy_check_mark:|
+| 45|:heavy_check_mark:|
+| 46|:heavy_check_mark:|
+| 47|:heavy_check_mark:|
+| 48|:heavy_check_mark:|
 | 49|     |
-| 50|    s|
+| 50|:heavy_check_mark:|
 | 51|     |
-| 52|    s|
-| 53|    s|
-| 54|    s|
-| 55|    s|
-| 56|    s|
-| 57|    s|
+| 52|:heavy_check_mark:|
+| 53|:heavy_check_mark:|
+| 54|:heavy_check_mark:|
+| 55|:heavy_check_mark:|
+| 56|:heavy_check_mark:|
+| 57|:heavy_check_mark:|
 | 58|     |
-| 59|    s|
+| 59|:heavy_check_mark:|
 | 60|     |
 | 61|     |
 | 62|     |
 | 63|     |
 | 64|     |
-| 65|    s|
+| 65|:heavy_check_mark:|
 | 66|     |
-| 67|    s|
-| 68|    s|
-| 69|    s|
+| 67|:heavy_check_mark:|
+| 68|:heavy_check_mark:|
+| 69|:heavy_check_mark:|
 | 60|     |
-| 71|    s|
+| 71|:heavy_check_mark:|
 | 72|     |
 | 73|     |
 | 74|     |
